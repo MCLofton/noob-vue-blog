@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MCLofton/noob-vue-blog/issues"
   },
-  "homepage": "https://github.com/MCLofton/noob-vue-blog#readme"
+  "homepage": "https://github.com/MCLofton/noob-vue-blog#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
